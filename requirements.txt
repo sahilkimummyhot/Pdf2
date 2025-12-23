@@ -1,0 +1,6 @@
+pyrogram
+pyaes
+PyPDF2
+reportlab
+rich
+aiohttp
